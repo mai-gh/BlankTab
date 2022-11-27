@@ -2,7 +2,7 @@
 
 ### Chrome extension to make the new tab page blank
 
-1. Go to chrome://extensions
+1. Go to [chrome://extensions](chrome://extensions)
 
 2. Enable developer mode
 ￼
