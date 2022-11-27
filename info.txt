@@ -1,0 +1,6 @@
+https://superuser.com/questions/206229/how-to-make-a-blank-page-in-google-chrome-at-start-up/1046794#1046794
+
+
+ to Chrome Extensions page (chrome://extensions/)
+Check "Developer mode" (upper right)
+Click "Load unpacked extension..." and point to the directory where two files was saved
